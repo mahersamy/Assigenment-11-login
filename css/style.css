@@ -1,0 +1,58 @@
+body {
+    background-color: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    display: inline;
+    color: white;
+}
+
+h1{
+    color: #17a2b8;
+    font-size: 40px;
+}
+
+.color-green{
+    color:#17a2b8 !important
+}
+
+.content{
+    /* width: fit-content; */
+    background: #24353f;
+
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+
+.form-control{
+    background-color: transparent;
+    color: white;
+}
+
+
+.form-control:focus {
+    color: #212529;
+    background-color: transparent;
+    border-color: #86b7fe;
+    outline: 0;
+    box-shadow: none;
+}
+
+
+
+button{
+    color: #17a2b8;
+    background-color: transparent;
+    border: #17a2b8 1px solid;
+    border-radius: .25rem;
+}
+
+
+nav{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+}
+
+
